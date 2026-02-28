@@ -1,3 +1,6 @@
+### Deploy by Cloudflare and Github
+
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/usherzhao/webrtc-signaling-worker)
 # WebRTC 信令服务器
 
 一个基于 Cloudflare Workers Durable Objects 构建的 WebRTC 信令服务器，用于支持实时点对点通信。
